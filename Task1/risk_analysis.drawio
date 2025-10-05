@@ -1,0 +1,275 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Страница — 1" id="1QrwY-Vf_LqMxKdPQklI">
+    <mxGraphModel dx="1997" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-1" target="vptr8PX1cL78Xx3dD0ji-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-1" target="vptr8PX1cL78Xx3dD0ji-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-1" target="vptr8PX1cL78Xx3dD0ji-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-1" target="vptr8PX1cL78Xx3dD0ji-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-1" value="Безопасность данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-2" target="vptr8PX1cL78Xx3dD0ji-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-2" value="Публичные данные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-3" target="vptr8PX1cL78Xx3dD0ji-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-3" target="vptr8PX1cL78Xx3dD0ji-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-3" target="vptr8PX1cL78Xx3dD0ji-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-3" target="vptr8PX1cL78Xx3dD0ji-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-3" value="Внутренние данные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-4" target="vptr8PX1cL78Xx3dD0ji-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="549" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-4" target="vptr8PX1cL78Xx3dD0ji-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="549" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-4" target="vptr8PX1cL78Xx3dD0ji-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="549" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-4" target="vptr8PX1cL78Xx3dD0ji-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="555" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-4" value="Конфиденциальные данные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1099" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1099" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1099" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1099" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1099" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-5" value="Секретные данные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-6" target="vptr8PX1cL78Xx3dD0ji-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-6" value="Каталог недвижимости" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="89" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-8" target="vptr8PX1cL78Xx3dD0ji-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-8" value="Маркетинговая информация на витрине" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-12" target="vptr8PX1cL78Xx3dD0ji-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-12" value="Материалы для онлайн туров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="168" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-13" value="Результаты просмотра онлайн туров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-14" target="vptr8PX1cL78Xx3dD0ji-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-14" value="Финансовые данные&lt;br&gt;(платежи, реквизиты, транзакции)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-18" target="vptr8PX1cL78Xx3dD0ji-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-18" value="Персональные данные клиентов и собственников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-4" target="vptr8PX1cL78Xx3dD0ji-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="549" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-23" target="vptr8PX1cL78Xx3dD0ji-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-23" value="Данные о сделках" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="876" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-24" target="vptr8PX1cL78Xx3dD0ji-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-24" value="Данные АПИ госорганов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-25" target="vptr8PX1cL78Xx3dD0ji-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-25" value="Аналитика и отчетность" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1034" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-26" target="vptr8PX1cL78Xx3dD0ji-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-26" value="Данные о ремонтах, обращениях, услугах ЖКХ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="483" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-4" target="vptr8PX1cL78Xx3dD0ji-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-27" target="vptr8PX1cL78Xx3dD0ji-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-27" value="Сценарии умного дома, телеметрия" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-28" target="vptr8PX1cL78Xx3dD0ji-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-28" value="access-логи, конфиги" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-29" target="vptr8PX1cL78Xx3dD0ji-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-29" value="Общая телеметрия (без привязки к пользователю)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-31" target="vptr8PX1cL78Xx3dD0ji-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-31" value="Секреты и ключи" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-50" target="vptr8PX1cL78Xx3dD0ji-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-50" value="Платежные карты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-51" target="vptr8PX1cL78Xx3dD0ji-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-51" value="Учетные данные пользователей систем (внутренних и внешних)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="798" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-52" value="Логи (без перс данных, мониторинги)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-53" target="vptr8PX1cL78Xx3dD0ji-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-53" value="Исходный код, архитектурные и инфраструктурные схемы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1349" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-5" target="vptr8PX1cL78Xx3dD0ji-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-123" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - незначительный - информация публичная&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - незначительный - риск недополученной прибыли&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - значительный - подмена скидок/фото носит репутационный ущерб&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Некачественные данные&lt;/i&gt;&lt;/b&gt; - значительный - репутационный ущерб&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&lt;/i&gt;&lt;/b&gt; - незначительно - устаревание акций и скидок не несет ущерб&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-125" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - незначительный - информация публичная&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - критический - потеря данных делает невозможным коммерческие операции, останавливает бизнес&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - неверные цены ведут к убыткам и юридическим проблемам&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Некачественные данные&lt;/i&gt;&lt;/b&gt; - значительный - репутационный ущерб + неверная аналитика&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&lt;/i&gt;&lt;/b&gt; - значительный -&amp;nbsp;&lt;/font&gt;репутационный ущерб + неверная аналитика&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-126" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - значительный - информация непубличная, может содержать внутренние данные&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данны&lt;/i&gt;&lt;/b&gt;х - значительный - потеря данных делает невозможным просмотр и влияет напрямую на продажи&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - значительный - может ввести в заблуждение и привести к претензиям&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Некачественные данные/ Обесценивание данных&lt;/i&gt;&lt;/b&gt;&amp;nbsp;- незначительный - возможен репутационный ущерб, если клиент проверит объект офлайн&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="158" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-130" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - незначительный - не раскрывает перс данные или коммерческую тайну&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - ухудшит сервис, незначительные репутационные риски&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - значительный -&amp;nbsp;&lt;/font&gt;ухудшит сервис, незначительные репутационные риски&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный -&amp;nbsp;&lt;/font&gt;ухудшит сервис, незначительные репутационные риски&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - актуальна только текущая информация&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="237" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-132" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - значительный - могут раскрыть внутреннюю структуру сервисов, хосты, архитектуру&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - влияет на расследование инцидентов, репутационные риски&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - значительный -&amp;nbsp;&lt;/font&gt;может скрывать следы атак&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный -&amp;nbsp;&lt;/font&gt;влияет на расследование инцидентов, репутационные риски&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - актуальна только текущая информация&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="312" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-133" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - содержат перс данные, раскрывают поведение пользователей&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - влияет на аналитику и маркетинг, но не блокирует&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - значительный -&amp;nbsp;&lt;/font&gt;влияет на аналитику и маркетинг, но не блокирует&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный -&amp;nbsp;&lt;/font&gt;влияет на аналитику и маркетинг, но не блокирует&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - актуальна только текущая информация&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="392" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-52" target="vptr8PX1cL78Xx3dD0ji-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vptr8PX1cL78Xx3dD0ji-13" target="vptr8PX1cL78Xx3dD0ji-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-137" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - содержат перс данные, детали частной жизни&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - критический - потеря данных об услугах повлияет на выставление счетов, могут быть штрафы и судебные претензии&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - может повлечь убытки&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный - может вызвать репутационные риски и убытки&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - важны для аналитики, но не несут ущерб&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="473" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-140" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - может угрожать безопасности жильцов, тк раскрывает их нахождение дома и состав семьи&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - приведет к неудобству и нанесет вред репутации&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - подмена сценариев может угрожать безопасности жильцов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный -&amp;nbsp;&lt;/font&gt;приведет к неудобству и нанесет вред репутации&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - актуальны только текущие данные&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="551" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-141" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - утечка может привести к финансовым потерям, мошенническим действиям&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - критический - может повлечь убытки, конфликты, судебные иски&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - может повлечь убытки&lt;/font&gt;, конфликты, судебные иски&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный - ошибки приводят к необходимости сверок, споров&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- значительный - финансовые данные должны храниться определенный период&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-142" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - нарушение закона, штрафы, иски, риски мошенничества&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - критический - потеря данных делает невозможным идентификацию клиентов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - нарушение закона, штрафы, иски&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;-&amp;nbsp;&lt;/font&gt;критический - нарушение закона, штрафы, иски&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - важны для аналитики, но не несут ущерб&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="709" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-146" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - приведет к несанкционированному доступу в систему&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - сбои в авторизации и работе системы, но можно восстановить&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; - критический - подмена данных = несанкционированный доступ в систему&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный - может привести к несанкционированному доступу сотридниками компаний к другим сервисам&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - устаревшие записи теряют ценность&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="788" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-148" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - содержат перс данные, юридические и финансовые данные&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - критический - делает невозможным подтверждение обязательств, часто не может быть восстановлена&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - риск неправомерных действий, исков, убытков&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный - может привести к спорам и проблемам в работе&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- значительный&amp;nbsp;- юридические документы имеют длительный срок хранения, важна актуальность&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="868" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-150" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - содержат перс данные, юридические сведения, параметры доступов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - усложнит оформление сделки, переведет сделку в бумажный формат&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - может привести к заключпению незаконных сделок -убытки и иски&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный -&amp;nbsp;&lt;/font&gt;усложнит оформление сделки, переведет сделку в бумажный формат&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - данные важны в момент заключения сделки, потом не важны&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="948" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-152" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - наносит значительный ущерб репутации, дает конкурентам стратегическое преимущество&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - влияет на принятие решений, но не блокирует работу&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - значительный&amp;nbsp;- может повлечь убытки из-за неверных решений в управлении&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный -&amp;nbsp;&lt;/font&gt;может повлечь убытки из-за неверных решений в управлении&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- значительный - важны для аналитики, но не несут ущерб&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1028" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-154" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - приведет к утечке перс данных&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - мешает расследованию инцидентов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - может скрывать следы атак&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный - мешает расследованию инцидентов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- значительный&amp;nbsp;- неактуальные конфиги могут привести к ошибкам в работе&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1108" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-155" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt;&amp;nbsp;- критический - приведет к несанкционированному доступу, потере и искажению информации&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt;&amp;nbsp;- критический - блокирует работу всех систем до восстановления/замены/перевыпуска данных&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt;&amp;nbsp;- критический - приведет к потерям и убыткам, может заблокировать работу всех систем&lt;/li&gt;&lt;li&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные&amp;nbsp;&lt;/i&gt;- критический&amp;nbsp;- неверные данные могут повлечь потерю, искажение, блокирование работы&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- критический&amp;nbsp;- неактуальные пароли могут заблокировать работу пользователей и систем&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1188" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-156" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - нарушение закона, мошеннические действия, иски, штрафы&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - значительный - может вызвать ошибки при возвратах и проведении платежей, но не блокирует и не несет убытки&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - мошенничество и прямые убытки&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- критический - риск блокировки операций из-за ошибочных запросов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- незначительный - карты имеют срок действия, пользователь может заменить свои данные другими&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1268" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vptr8PX1cL78Xx3dD0ji-157" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Утечка&lt;/i&gt;&lt;/b&gt; - критический - облегчает атаки, раскрывает уязвимости, секреты&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Потеря данных&lt;/i&gt;&lt;/b&gt; - критический - невозможность поддержки, влечет простои и финансовые потери&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Искажение данных&lt;/i&gt;&lt;/b&gt; - критический - вирусы, взломы&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Некачественные данные &lt;/i&gt;- значительный - ошибки при поддержке, внедрении нового, непредвиденные ошибки&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;i&gt;Обесценивание данных&amp;nbsp;&lt;/i&gt;&lt;/b&gt;- значительный&amp;nbsp;-&amp;nbsp;&lt;/font&gt;ошибки при поддержке, внедрении нового, непредвиденные ошибки&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1348" width="420" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
